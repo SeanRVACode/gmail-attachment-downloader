@@ -6,7 +6,6 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from icecream import ic
-import email
 
 # Remember to delete the file token .json. if these scopes are changed
 SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"]
