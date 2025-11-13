@@ -1,0 +1,4 @@
+# Ignore sensitive Files
+*.env
+*.xlsx
+*.json
