@@ -1,3 +1,3 @@
-# Email Statement Downloader
+# Gmail Attachment Downloader
 
-With my ADHD in full swing I wanted an easy way to remember download financial statements into storage for record keeping without thinking about it too much.
+An automation to hopefully improve my organization by automatically downloading specific attachments to needed locations.
